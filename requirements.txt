@@ -1,0 +1,7 @@
+# python3 -m pip install --user -U -r requirements.txt
+boto3
+botocore
+ec2_metadata
+Jinja2
+paramiko
+pyspark
